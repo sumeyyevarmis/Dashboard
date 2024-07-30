@@ -1,0 +1,11 @@
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\bin\Debug\IsTakip.exe.config
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\bin\Debug\IsTakip.exe
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\bin\Debug\IsTakip.pdb
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.csproj.AssemblyReference.cache
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.Form1.resources
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.Properties.Resources.resources
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.csproj.GenerateResource.cache
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.csproj.CoreCompileInputs.cache
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.exe
+C:\Users\sumeyye.varmis\Desktop\New folder\c#deneme\IsTakip\IsTakip\IsTakip\obj\Debug\IsTakip.pdb
